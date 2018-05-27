@@ -56,9 +56,7 @@ A gray image with 80% noise rate.
 
 Fix it by using 8 CNN layers and 40 epoches.
 
-![](https://github.com/CKCZZJ/ImgRecovery/blob/master/data/A.png)
-
-![](https://github.com/CKCZZJ/ImgRecovery/blob/master/result/3150104669_A.png)
+![](https://github.com/CKCZZJ/ImgRecovery/blob/master/data/A.png)![](https://github.com/CKCZZJ/ImgRecovery/blob/master/result/3150104669_A.png)
 
 
 
