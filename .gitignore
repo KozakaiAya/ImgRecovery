@@ -103,6 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-.docx
-.pdf
+*.docx
+*.pdf
 .idea/
