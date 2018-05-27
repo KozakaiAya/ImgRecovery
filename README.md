@@ -56,7 +56,7 @@ A gray image with 80% noise rate.
 
 Fix it by using 8 CNN layers and 40 epoches.
 
-![](https://github.com/CKCZZJ/ImgRecovery/blob/master/data/A.png)![](https://github.com/CKCZZJ/ImgRecovery/blob/master/result/3150104669_A.png)
+![](https://github.com/CKCZZJ/ImgRecovery/blob/master/data/A.png)![](https://github.com/CKCZZJ/ImgRecovery/blob/master/result/A_result.png)
 
 
 
@@ -64,7 +64,7 @@ A RGB image with 40% noise rate.
 
 Fix it by using 10 CNN layers and 50 epoches.
 
-![](https://github.com/CKCZZJ/ImgRecovery/blob/master/data/B.png) ![](https://github.com/CKCZZJ/ImgRecovery/blob/master/result/3150104669_B.png)
+![](https://github.com/CKCZZJ/ImgRecovery/blob/master/data/B.png) ![](https://github.com/CKCZZJ/ImgRecovery/blob/master/result/B_result.png)
 
 
 
@@ -72,7 +72,7 @@ A RGB image with 60% noise rate.
 
 Fix it by using 10 CNN layers and 50 epoches.
 
-![](https://github.com/CKCZZJ/ImgRecovery/blob/master/data/C.png) ![](https://github.com/CKCZZJ/ImgRecovery/blob/master/result/3150104669_C.png)
+![](https://github.com/CKCZZJ/ImgRecovery/blob/master/data/C.png) ![](https://github.com/CKCZZJ/ImgRecovery/blob/master/result/C_result.png)
 
 
 
