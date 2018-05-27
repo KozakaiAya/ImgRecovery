@@ -1,6 +1,6 @@
 # Description
 
-受损图像 ![](http://chart.googleapis.com/chart?cht=tx&chl=x)  是由原始图像 ![](http://chart.googleapis.com/chart?cht=tx&chl=I\in R^{H*W*C}) 添加了不同噪声遮罩(noise masks)![](http://chart.googleapis.com/chart?cht=tx&chl= M\in R^{H*W*C}) 得到的 ![](http://chart.googleapis.com/chart?cht=tx&chl=  X=I\odot   M )  ，其中 ![](http://chart.googleapis.com/chart?cht=tx&chl=\odot) 是逐元素相乘。
+受损图像 ![](http://chart.googleapis.com/chart?cht=tx&chl=x)  是由原始图像 ![](http://chart.googleapis.com/chart?cht=tx&chl=I\in%20R^{H*W*C}) 添加了不同噪声遮罩(noise masks)![](http://chart.googleapis.com/chart?cht=tx&chl= M\in R^{H*W*C}) 得到的 ![](http://chart.googleapis.com/chart?cht=tx&chl=I\odot M)  ，其中 ![](http://chart.googleapis.com/chart?cht=tx&chl=\odot) 是逐元素相乘。
 
 噪声遮罩仅包含{0,1}值。噪声遮罩的每行是用噪声比率产生的，即噪声遮罩每个通道每行有固定比率的像素值为0，其他为1。
 
