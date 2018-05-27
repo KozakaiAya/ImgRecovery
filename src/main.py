@@ -54,4 +54,4 @@ with tf.Session() as sess:
         denoised=denoised.reshape([denoised.shape[1],denoised.shape[2]])
     elif args.channel==3:
         denoised=denoised.reshape([denoised.shape[1],denoised.shape[2],3])
-    imsave("../result/3150104669_"+args.input+".png",denoised)
+    imsave("../result/"+args.input+"_result.png",denoised)
