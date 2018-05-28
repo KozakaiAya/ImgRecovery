@@ -6,9 +6,11 @@
 
 
 
+
+
 # Dependency
 
-PYTHON_VERSION="2.7"
+PYTHON_VERSION="2.7" or "3.x"
 
 TensorFlow
 
@@ -17,6 +19,8 @@ Numpy
 Scipy
 
 Pillow
+
+
 
 
 
@@ -47,6 +51,8 @@ Example :
 If you want to recover a noised image(data/abc.png) with 60% percent noise rate, you can use following command in folder src :
 
 python main.py --channel 3 -- input abc --percent 0.6
+
+
 
 
 
